@@ -1,13 +1,14 @@
-Student Performance Predictor (with IQ callback integration)
+Student Performance Predicton using Machine Learning
 ============================================================
 
-This project contains an option-2 style integration for an IQ test: the IQ site redirects
-to /iq-callback?token=... and the Flask backend fetches the IQ from a provider API.
-
 How to run locally (quick):
-1. Create & activate virtualenv
-2. pip install -r requirements.txt
-3. Run iq_service for testing: python iq_service/app.py
-4. Train model: python train_model.py
-5. Run app: python app.py
-6. Open http://localhost:8080
+1. pip install -r requirements.txt
+2. Train model: python train_model.py
+3. Run app: python app.py
+4. Open http://localhost:8080
+5. Take IQ Test
+6. upload iq certificate
+7. Enter IQ Marks
+8. Enter Your academic marks,study hours,Extra curucular activity
+9. Predict
+10. O/p : Pass/fail  give suggestions and persnalized time table
