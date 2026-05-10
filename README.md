@@ -12,3 +12,4 @@ How to run locally (quick):
 8. Enter Your academic marks,study hours,Extra curucular activity
 9. Predict
 10. O/p : Pass/fail  give suggestions and persnalized time table
+![Home Page]("C:\Users\shali\OneDrive\Pictures\Screenshots\Screenshot 2026-04-03 132613.png")
